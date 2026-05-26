@@ -1,0 +1,3 @@
+{"task_id": "gaia-001", "Question": "What is the capital of France?", "Final answer": "Paris", "Level": 1, "file_name": ""}
+{"task_id": "gaia-002", "Question": "How many moons does Earth have?", "Final answer": "1", "Level": 1, "file_name": ""}
+{"task_id": "gaia-003", "Question": "Read the attached file and report its first line.", "Final answer": "Hello", "Level": 2, "file_name": "sample.txt"}

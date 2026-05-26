@@ -1,0 +1,5 @@
+[
+  {"content": "{\"thought\": \"2+2=4\", \"action\": \"final_answer\", \"final_answer\": \"4\"}", "cost_usd": 0.0001, "model": "mock", "tokens_in": 10, "tokens_out": 10},
+  {"content": "{\"thought\": \"capital of France is Paris\", \"action\": \"final_answer\", \"final_answer\": \"Paris\"}", "cost_usd": 0.0001, "model": "mock", "tokens_in": 10, "tokens_out": 10},
+  {"content": "{\"thought\": \"reverse hello\", \"action\": \"final_answer\", \"final_answer\": \"olleh\"}", "cost_usd": 0.0001, "model": "mock", "tokens_in": 10, "tokens_out": 10}
+]

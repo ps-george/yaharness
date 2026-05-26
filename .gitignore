@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+.venv/
+.env
+.envrc
+results/*/raw/
+results/*/cache/
+results/
+logs/
+# swebench writes <model>.<run_id>.json at the report_dir root
+*-seed*.*.json
+*.brief*-*.json
